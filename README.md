@@ -4,7 +4,7 @@
 To access the dataset, please download it from Kaggle: [Remote Work and Mental Health Dataset](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data).
 
 ## 2. Software Dependencies
-To run this code, ensure you have the following dependencies installed:
+To run the EDA code, ensure you have the following dependencies installed:
 
 - **Python**: Version >= 3.7
 - **Libraries**:
