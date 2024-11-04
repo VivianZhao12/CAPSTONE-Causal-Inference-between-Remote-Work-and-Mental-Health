@@ -1,7 +1,10 @@
 # Causal Discovery in Remote Work and Mental Health
 
 ## 1. How to Access and Store the Necessary Data
-To access the dataset, please download it from Kaggle: [Remote Work and Mental Health Dataset](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data).
+To access the dataset, please go to the "data.csv" file in the repo.
+
+* for Work_Location, 1 = onsite, 2 = hybrid, 3 = remote;
+* for Education_Level, 1 = high school, 2 = bachelor, 3 = master, 4 = doctorate
 
 ## 2. Software Dependencies
 To run the EDA code, ensure you have the following dependencies installed:
