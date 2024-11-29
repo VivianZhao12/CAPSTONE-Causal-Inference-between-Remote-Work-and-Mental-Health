@@ -6,6 +6,7 @@ node. Average_Daily_Work_Hours -> Sleep
 node. Sleep -> Stress_Level
 node. Social_Isolation_Rating <-> Stress_Level
 node. Work_Location -> Social_Isolation_Rating
+node. Work_Location -> Stress_Level
 node. Exercise_Level -> Sleep
 node. Company_Support -> Work_Location
 node. Exercise_Level -> Social_Isolation_Rating
