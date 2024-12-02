@@ -1,0 +1,12 @@
+All Nodes: 
+Average_Daily_Work_Hours;Company_Support;Exercise_Level;Family_Members;Sleep;Social_Isolation_Rating;Stress_Level;Work_Location
+node. Family_Members -> Average_Daily_Work_Hours
+node. Average_Daily_Work_Hours -> Sleep
+node. Family_Members -> Social_Isolation_Rating
+node. Social_Isolation_Rating -> Stress_Level
+node. Sleep -> Stress_Level
+node. Work_Location -> Social_Isolation_Rating
+node. Exercise_Level -> Sleep
+node. Exercise_Level -> Social_Isolation_Rating
+node. Work_Location -> Stress_Level
+node. Company_Support -> Work_Location
