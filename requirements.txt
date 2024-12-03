@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+scikit-learn
+causal-learn
+jupyter
+ipykernel
